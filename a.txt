@@ -3,4 +3,6 @@ Part 1 Instuction 4
 
 Branch, Part 1 Instruction 6
 
+Part 2:
+Branch, Part 2 Instruction 1
 Main, Part 2 Instruction 2
