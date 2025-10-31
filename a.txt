@@ -7,4 +7,6 @@ Part 2:
 Branch, Part 2 Instruction 1
 Main, Part 2 Instruction 2
 
+Part 3:
+Main, Part 3 Instruction 2
 Branch, Part 3 Instruction 1
