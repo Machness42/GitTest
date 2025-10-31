@@ -13,4 +13,6 @@ Branch, Part 3 Instruction 1
 
 Branch, Part 4 Instruction 1
 
+Part 5:
+Main, Part 5 Instruction 2
 Branch, Part 5 Instruction 1
